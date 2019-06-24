@@ -1,0 +1,33 @@
+h1 {
+	height: 200px;
+	background-color: green;
+	color: white;
+}
+
+body{
+	background-image: url(../images/reddit.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.Columbus {
+	background-color: blue;
+	color: white;
+}
+
+#coding {
+	font-family: "Times New Roman";
+
+}
+
+.divies{
+	background-color: yellow;
+    color: white;
+    height: 50px;
+    border: 5px solid black;
+    
+    
+
+}

@@ -1,0 +1,51 @@
+total 0
+drwxr-xr-x  4 Shelliebean  staff  128 Jun 11 18:48 Dogs
+drwxr-xr-x  4 Shelliebean  staff  128 Jun 11 18:48 Monkeys
+drwxr-xr-x  5 Shelliebean  staff  160 Jun 11 18:48 e-texts
+drwxr-xr-x  4 Shelliebean  staff  128 Jun 11 18:48 images
+
+directories/Dogs:
+total 0
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:44 hate
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 like
+
+directories/Dogs/hate:
+
+directories/Dogs/like:
+
+directories/Monkeys:
+total 0
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 hate
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 like
+
+directories/Monkeys/hate:
+
+directories/Monkeys/like:
+
+directories/e-texts:
+total 0
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 Maugham,W.Somerset
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 OReilly,Augustine
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 Poe,EdgarAllen
+
+directories/e-texts/Maugham,W.Somerset:
+
+directories/e-texts/OReilly,Augustine:
+
+directories/e-texts/Poe,EdgarAllen:
+
+directories/images:
+total 0
+drwxr-xr-x  2 Shelliebean  staff   64 Jun 11 18:48 cartoons
+drwxr-xr-x  4 Shelliebean  staff  128 Jun 11 18:48 clipart
+
+directories/images/cartoons:
+
+directories/images/clipart:
+total 0
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 animals
+drwxr-xr-x  2 Shelliebean  staff  64 Jun 11 18:48 food
+
+directories/images/clipart/animals:
+
+directories/images/clipart/food:

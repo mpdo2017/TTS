@@ -1,0 +1,18 @@
+.stuff{
+	margin-left: 10px;
+}
+
+.example_class{
+	background-color: red;
+}
+
+#footer_bottom{
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+}
+
+.panel-body p{
+	color: red;
+
+}
